@@ -1,10 +1,9 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "minima"
+  spec.name          = "minima-dac"
   spec.version       = "2.5.0"
-  spec.authors       = ["Joel Glovier"]
-  spec.email         = ["jglovier@github.com"]
+  spec.authors       = ["Joel Glovier", "David Colucci"]
 
   spec.summary       = "A beautiful, minimal theme for Jekyll."
   spec.homepage      = "https://github.com/jekyll/minima"
